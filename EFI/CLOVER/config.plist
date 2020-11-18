@@ -127,10 +127,14 @@
 		<string>PBR</string>
 		<key>NeverHibernate</key>
 		<true/>
+		<key>NoEarlyProgress</key>
+		<true/>
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
 		<integer>3</integer>
+		<key>XMPDetection</key>
+		<false/>
 	</dict>
 	<key>CPU</key>
 	<dict>
